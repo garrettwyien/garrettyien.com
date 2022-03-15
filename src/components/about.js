@@ -3,6 +3,14 @@ import styled from 'styled-components';
 
 const StyledAbout = styled.div`
     width: 40%;
+    a {
+        text-decoration: underline;
+        color: #000000;
+    }
+    a:hover {
+        color:#228B22;
+        transition: .4s
+    }
 `
 export default function About () {
     return (
