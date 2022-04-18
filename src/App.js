@@ -23,7 +23,7 @@ const StyledTop = styled.div`
   width: 100%;
 
   img.garrett {
-    width: 35%;
+    height: 500px;
     box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
   }
 `
